@@ -1,0 +1,22 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1920px;
+}
+.container h2 {
+	color: #333131;
+	text-align: left;
+}
+ p {
+	color: #333131;
+	text-align: left;
+}
+.card{
+	float: left;
+	padding: 10px;
+}
+.card1{
+	float: right;
+}
